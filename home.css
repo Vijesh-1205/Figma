@@ -434,6 +434,7 @@ button{
     box-shadow: 5.539px 5.539px 28.802px 0px #DD8762;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .six-left h1{
@@ -517,6 +518,7 @@ button{
 .parent-7{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 
@@ -737,7 +739,8 @@ button{
 }
 
 .ten-bt{
-    padding: 0px 635px 25px;
+    padding: 0px 653px 25px;
+    justify-content: center;
 }
 
 .ten-bottom button p{
